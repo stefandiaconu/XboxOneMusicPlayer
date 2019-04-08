@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Machine>DESKTOP-2BNEN64</Machine>
-    <WindowsUser>stefa</WindowsUser>
+    <Machine>DESKTOP-D811IMS</Machine>
+    <WindowsUser>lidia</WindowsUser>
     <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
     <TargetOsVersion>10.0</TargetOsVersion>
     <TargetOsDescription>Windows 10.0</TargetOsDescription>
@@ -10,22 +10,22 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>2caedd6b-0ff8-4eec-a6ba-128d62bffe89</PackageIdentityName>
     <PackageIdentityPublisher>CN=stefa</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\stefa\source\repos\XboxOneMusicPlayer\obj\x64\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\lidia\OneDrive\Documentos\GitHub\XboxOneMusicPlayer\XboxOneMusicPlayer\obj\x64\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\stefa\source\repos\XboxOneMusicPlayer\bin\x64\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\Users\lidia\OneDrive\Documentos\GitHub\XboxOneMusicPlayer\XboxOneMusicPlayer\bin\x64\Debug\AppX</LayoutDir>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\stefa\source\repos\XboxOneMusicPlayer\bin\x64\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\lidia\OneDrive\Documentos\GitHub\XboxOneMusicPlayer\XboxOneMusicPlayer\bin\x64\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\stefa\source\repos\XboxOneMusicPlayer\bin\x64\Debug\XboxOneMusicPlayer.exe">
+    <AppxPackagedFile Include="C:\Users\lidia\OneDrive\Documentos\GitHub\XboxOneMusicPlayer\XboxOneMusicPlayer\bin\x64\Debug\XboxOneMusicPlayer.exe">
       <PackagePath>entrypoint\XboxOneMusicPlayer.exe</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.csharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
@@ -70,7 +70,7 @@
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.visualbasic\10.0.1\lib\netcore50\Microsoft.VisualBasic.dll">
       <PackagePath>Microsoft.VisualBasic.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\stefa\.nuget\packages\mqttnet\2.8.5\lib\uap10.0\MQTTnet.dll">
+    <AppxPackagedFile Include="C:\Users\lidia\.nuget\packages\mqttnet\2.8.5\lib\uap10.0\MQTTnet.dll">
       <PackagePath>MQTTnet.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.any.system.collections\4.0.11\lib\netcore50\System.Collections.dll">
@@ -376,52 +376,52 @@
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.17763.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\stefa\source\repos\XboxOneMusicPlayer\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\lidia\OneDrive\Documentos\GitHub\XboxOneMusicPlayer\XboxOneMusicPlayer\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\stefa\source\repos\XboxOneMusicPlayer\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\lidia\OneDrive\Documentos\GitHub\XboxOneMusicPlayer\XboxOneMusicPlayer\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\stefa\source\repos\XboxOneMusicPlayer\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\lidia\OneDrive\Documentos\GitHub\XboxOneMusicPlayer\XboxOneMusicPlayer\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\stefa\source\repos\XboxOneMusicPlayer\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\lidia\OneDrive\Documentos\GitHub\XboxOneMusicPlayer\XboxOneMusicPlayer\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\stefa\source\repos\XboxOneMusicPlayer\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\lidia\OneDrive\Documentos\GitHub\XboxOneMusicPlayer\XboxOneMusicPlayer\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\stefa\source\repos\XboxOneMusicPlayer\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\lidia\OneDrive\Documentos\GitHub\XboxOneMusicPlayer\XboxOneMusicPlayer\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\stefa\source\repos\XboxOneMusicPlayer\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\lidia\OneDrive\Documentos\GitHub\XboxOneMusicPlayer\XboxOneMusicPlayer\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\stefa\source\repos\XboxOneMusicPlayer\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\lidia\OneDrive\Documentos\GitHub\XboxOneMusicPlayer\XboxOneMusicPlayer\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\stefa\source\repos\XboxOneMusicPlayer\bin\x64\Debug\XboxOneMusicPlayer.xr.xml">
+    <AppxPackagedFile Include="C:\Users\lidia\OneDrive\Documentos\GitHub\XboxOneMusicPlayer\XboxOneMusicPlayer\bin\x64\Debug\XboxOneMusicPlayer.xr.xml">
       <PackagePath>XboxOneMusicPlayer.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\stefa\source\repos\XboxOneMusicPlayer\bin\x64\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\lidia\OneDrive\Documentos\GitHub\XboxOneMusicPlayer\XboxOneMusicPlayer\bin\x64\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\stefa\source\repos\XboxOneMusicPlayer\bin\x64\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\lidia\OneDrive\Documentos\GitHub\XboxOneMusicPlayer\XboxOneMusicPlayer\bin\x64\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17763.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\stefa\source\repos\XboxOneMusicPlayer\bin\x64\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\lidia\OneDrive\Documentos\GitHub\XboxOneMusicPlayer\XboxOneMusicPlayer\bin\x64\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\stefa\source\repos\XboxOneMusicPlayer\bin\x64\Debug\Core\XboxOneMusicPlayer.exe">
+    <AppxPackagedFile Include="C:\Users\lidia\OneDrive\Documentos\GitHub\XboxOneMusicPlayer\XboxOneMusicPlayer\bin\x64\Debug\Core\XboxOneMusicPlayer.exe">
       <PackagePath>XboxOneMusicPlayer.exe</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

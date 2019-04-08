@@ -1,1 +1,1 @@
-C:\Users\stefa\source\repos\XboxOneMusicPlayer\XboxOneMusicPlayer.csproj;x64
+C:\Users\lidia\OneDrive\Documentos\GitHub\XboxOneMusicPlayer\XboxOneMusicPlayer\XboxOneMusicPlayer.csproj;x64
