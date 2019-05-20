@@ -10,7 +10,7 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>2caedd6b-0ff8-4eec-a6ba-128d62bffe89</PackageIdentityName>
     <PackageIdentityPublisher>CN=stefa</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\lidia\OneDrive\Documentos\GitHub\XboxOneMusicPlayer\XboxOneMusicPlayer\obj\x64\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\lidia\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\obj\x64\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,7 +18,7 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\lidia\OneDrive\Documentos\GitHub\XboxOneMusicPlayer\XboxOneMusicPlayer\bin\x64\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\Users\lidia\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\bin\x64\Debug\AppX</LayoutDir>
     <RegisteredManifestChecksum>E42AD8E9618A3E7E65C7D907D4D295B433F3DBCD40DB0629F75157B5692E7CD0</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>2caedd6b-0ff8-4eec-a6ba-128d62bffe89_1.0.0.0_x64__dfg97hv9xt576</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>2caedd6b-0ff8-4eec-a6ba-128d62bffe89_dfg97hv9xt576!App</RegisteredUserModeAppID>
@@ -27,16 +27,16 @@
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\lidia\OneDrive\Documentos\GitHub\XboxOneMusicPlayer\XboxOneMusicPlayer\bin\x64\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\lidia\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\bin\x64\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-05-20T21:17:25.778</Modified>
+      <Modified>2019-05-20T22:59:17.490</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\lidia\OneDrive\Documentos\GitHub\XboxOneMusicPlayer\XboxOneMusicPlayer\bin\x64\Debug\XboxOneMusicPlayer.exe">
+    <AppxPackagedFile Include="C:\Users\lidia\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\bin\x64\Debug\XboxOneMusicPlayer.exe">
       <PackagePath>entrypoint\XboxOneMusicPlayer.exe</PackagePath>
-      <Modified>2019-05-20T21:17:20.799</Modified>
+      <Modified>2019-05-20T22:59:15.124</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.csharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -502,135 +502,135 @@
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
       <Modified>2018-10-23T00:33:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lidia\OneDrive\Documentos\GitHub\XboxOneMusicPlayer\XboxOneMusicPlayer\Assets\Subcarpati\01 - Subcarpati - Transhumanta-Zarile.mp3">
+    <AppxPackagedFile Include="C:\Users\lidia\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\Assets\Subcarpati\01 - Subcarpati - Transhumanta-Zarile.mp3">
       <PackagePath>Assets\Subcarpati\01 - Subcarpati - Transhumanta-Zarile.mp3</PackagePath>
-      <Modified>2019-05-20T20:51:12.805</Modified>
+      <Modified>2019-05-20T21:20:31.885</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lidia\OneDrive\Documentos\GitHub\XboxOneMusicPlayer\XboxOneMusicPlayer\Assets\Subcarpati\02 - Subcarpati - Lautar de Bucuresti.mp3">
+    <AppxPackagedFile Include="C:\Users\lidia\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\Assets\Subcarpati\02 - Subcarpati - Lautar de Bucuresti.mp3">
       <PackagePath>Assets\Subcarpati\02 - Subcarpati - Lautar de Bucuresti.mp3</PackagePath>
-      <Modified>2019-05-20T20:51:12.887</Modified>
+      <Modified>2019-05-20T21:20:31.916</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lidia\OneDrive\Documentos\GitHub\XboxOneMusicPlayer\XboxOneMusicPlayer\Assets\Subcarpati\03 - Subcarpati - Pai nu-i Doamne vina mea.mp3">
+    <AppxPackagedFile Include="C:\Users\lidia\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\Assets\Subcarpati\03 - Subcarpati - Pai nu-i Doamne vina mea.mp3">
       <PackagePath>Assets\Subcarpati\03 - Subcarpati - Pai nu-i Doamne vina mea.mp3</PackagePath>
-      <Modified>2019-05-20T20:51:13.011</Modified>
+      <Modified>2019-05-20T21:20:31.978</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lidia\OneDrive\Documentos\GitHub\XboxOneMusicPlayer\XboxOneMusicPlayer\Assets\Subcarpati\04 - Subcarpati - Am crescut pe la Romana.mp3">
+    <AppxPackagedFile Include="C:\Users\lidia\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\Assets\Subcarpati\04 - Subcarpati - Am crescut pe la Romana.mp3">
       <PackagePath>Assets\Subcarpati\04 - Subcarpati - Am crescut pe la Romana.mp3</PackagePath>
-      <Modified>2019-05-20T20:51:13.096</Modified>
+      <Modified>2019-05-20T21:20:32.010</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lidia\OneDrive\Documentos\GitHub\XboxOneMusicPlayer\XboxOneMusicPlayer\Assets\Subcarpati\05 - Subcarpati - Aveti nevoie de un ceteras.mp3">
+    <AppxPackagedFile Include="C:\Users\lidia\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\Assets\Subcarpati\05 - Subcarpati - Aveti nevoie de un ceteras.mp3">
       <PackagePath>Assets\Subcarpati\05 - Subcarpati - Aveti nevoie de un ceteras.mp3</PackagePath>
-      <Modified>2019-05-20T20:51:13.183</Modified>
+      <Modified>2019-05-20T21:20:32.072</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lidia\OneDrive\Documentos\GitHub\XboxOneMusicPlayer\XboxOneMusicPlayer\Assets\Subcarpati\06 - Subcarpati - Salvez lumea.mp3">
+    <AppxPackagedFile Include="C:\Users\lidia\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\Assets\Subcarpati\06 - Subcarpati - Salvez lumea.mp3">
       <PackagePath>Assets\Subcarpati\06 - Subcarpati - Salvez lumea.mp3</PackagePath>
-      <Modified>2019-05-20T20:51:13.269</Modified>
+      <Modified>2019-05-20T21:20:32.135</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lidia\OneDrive\Documentos\GitHub\XboxOneMusicPlayer\XboxOneMusicPlayer\Assets\Subcarpati\07 - Subcarpati - Original sampla`.mp3">
+    <AppxPackagedFile Include="C:\Users\lidia\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\Assets\Subcarpati\07 - Subcarpati - Original sampla`.mp3">
       <PackagePath>Assets\Subcarpati\07 - Subcarpati - Original sampla`.mp3</PackagePath>
-      <Modified>2019-05-20T20:51:13.322</Modified>
+      <Modified>2019-05-20T21:20:32.166</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lidia\OneDrive\Documentos\GitHub\XboxOneMusicPlayer\XboxOneMusicPlayer\Assets\Subcarpati\08 - Subcarpati - Doina spiritului.mp3">
+    <AppxPackagedFile Include="C:\Users\lidia\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\Assets\Subcarpati\08 - Subcarpati - Doina spiritului.mp3">
       <PackagePath>Assets\Subcarpati\08 - Subcarpati - Doina spiritului.mp3</PackagePath>
-      <Modified>2019-05-20T20:51:13.376</Modified>
+      <Modified>2019-05-20T21:20:32.197</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lidia\OneDrive\Documentos\GitHub\XboxOneMusicPlayer\XboxOneMusicPlayer\Assets\Subcarpati\09 - Subcarpati - Cand a fost la `89.mp3">
+    <AppxPackagedFile Include="C:\Users\lidia\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\Assets\Subcarpati\09 - Subcarpati - Cand a fost la `89.mp3">
       <PackagePath>Assets\Subcarpati\09 - Subcarpati - Cand a fost la `89.mp3</PackagePath>
-      <Modified>2019-05-20T20:51:13.443</Modified>
+      <Modified>2019-05-20T21:20:32.228</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lidia\OneDrive\Documentos\GitHub\XboxOneMusicPlayer\XboxOneMusicPlayer\Assets\Subcarpati\10 - Subcarpati - Visul lui %28cu Brio%29.mp3">
+    <AppxPackagedFile Include="C:\Users\lidia\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\Assets\Subcarpati\10 - Subcarpati - Visul lui %28cu Brio%29.mp3">
       <PackagePath>Assets\Subcarpati\10 - Subcarpati - Visul lui %28cu Brio%29.mp3</PackagePath>
-      <Modified>2019-05-20T20:51:13.535</Modified>
+      <Modified>2019-05-20T21:20:32.291</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lidia\OneDrive\Documentos\GitHub\XboxOneMusicPlayer\XboxOneMusicPlayer\Assets\Subcarpati\11 - Subcarpati - Hora fericirii.mp3">
+    <AppxPackagedFile Include="C:\Users\lidia\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\Assets\Subcarpati\11 - Subcarpati - Hora fericirii.mp3">
       <PackagePath>Assets\Subcarpati\11 - Subcarpati - Hora fericirii.mp3</PackagePath>
-      <Modified>2019-05-20T20:51:13.605</Modified>
+      <Modified>2019-05-20T21:20:32.323</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lidia\OneDrive\Documentos\GitHub\XboxOneMusicPlayer\XboxOneMusicPlayer\Assets\Subcarpati\12 - Subcarpati - La cutari %28cu Mara%29.mp3">
+    <AppxPackagedFile Include="C:\Users\lidia\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\Assets\Subcarpati\12 - Subcarpati - La cutari %28cu Mara%29.mp3">
       <PackagePath>Assets\Subcarpati\12 - Subcarpati - La cutari %28cu Mara%29.mp3</PackagePath>
-      <Modified>2019-05-20T20:51:13.726</Modified>
+      <Modified>2019-05-20T21:20:32.386</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lidia\OneDrive\Documentos\GitHub\XboxOneMusicPlayer\XboxOneMusicPlayer\Assets\Subcarpati\13 - Subcarpati - Viitorul %28cu Gnom%29.mp3">
+    <AppxPackagedFile Include="C:\Users\lidia\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\Assets\Subcarpati\13 - Subcarpati - Viitorul %28cu Gnom%29.mp3">
       <PackagePath>Assets\Subcarpati\13 - Subcarpati - Viitorul %28cu Gnom%29.mp3</PackagePath>
-      <Modified>2019-05-20T20:51:13.793</Modified>
+      <Modified>2019-05-20T21:20:32.433</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lidia\OneDrive\Documentos\GitHub\XboxOneMusicPlayer\XboxOneMusicPlayer\Assets\Subcarpati\14 - Subcarpati - Atat de personal.mp3">
+    <AppxPackagedFile Include="C:\Users\lidia\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\Assets\Subcarpati\14 - Subcarpati - Atat de personal.mp3">
       <PackagePath>Assets\Subcarpati\14 - Subcarpati - Atat de personal.mp3</PackagePath>
-      <Modified>2019-05-20T20:51:13.992</Modified>
+      <Modified>2019-05-20T21:20:32.495</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lidia\OneDrive\Documentos\GitHub\XboxOneMusicPlayer\XboxOneMusicPlayer\Assets\Subcarpati\15 - Subcarpati - Avion cu motor.mp3">
+    <AppxPackagedFile Include="C:\Users\lidia\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\Assets\Subcarpati\15 - Subcarpati - Avion cu motor.mp3">
       <PackagePath>Assets\Subcarpati\15 - Subcarpati - Avion cu motor.mp3</PackagePath>
-      <Modified>2019-05-20T20:51:14.060</Modified>
+      <Modified>2019-05-20T21:20:32.528</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lidia\OneDrive\Documentos\GitHub\XboxOneMusicPlayer\XboxOneMusicPlayer\Assets\Subcarpati\cover-05.jpg">
+    <AppxPackagedFile Include="C:\Users\lidia\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\Assets\Subcarpati\cover-05.jpg">
       <PackagePath>Assets\Subcarpati\cover-05.jpg</PackagePath>
-      <Modified>2019-05-20T20:51:14.084</Modified>
+      <Modified>2019-05-20T21:20:32.543</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lidia\OneDrive\Documentos\GitHub\XboxOneMusicPlayer\XboxOneMusicPlayer\Assets\Subcarpati\Subcarpati playlist.m3u">
+    <AppxPackagedFile Include="C:\Users\lidia\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\Assets\Subcarpati\Subcarpati playlist.m3u">
       <PackagePath>Assets\Subcarpati\Subcarpati playlist.m3u</PackagePath>
-      <Modified>2019-05-20T20:51:14.065</Modified>
+      <Modified>2019-05-20T21:20:32.528</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lidia\OneDrive\Documentos\GitHub\XboxOneMusicPlayer\XboxOneMusicPlayer\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\lidia\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
-      <Modified>2019-05-20T20:51:14.198</Modified>
+      <Modified>2019-05-20T21:20:32.543</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lidia\OneDrive\Documentos\GitHub\XboxOneMusicPlayer\XboxOneMusicPlayer\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\lidia\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
-      <Modified>2019-05-20T20:51:12.752</Modified>
+      <Modified>2019-05-20T21:20:31.853</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lidia\OneDrive\Documentos\GitHub\XboxOneMusicPlayer\XboxOneMusicPlayer\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\lidia\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-05-20T20:51:12.754</Modified>
+      <Modified>2019-05-20T21:20:31.853</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lidia\OneDrive\Documentos\GitHub\XboxOneMusicPlayer\XboxOneMusicPlayer\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\lidia\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-05-20T20:51:12.758</Modified>
+      <Modified>2019-05-20T21:20:31.853</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lidia\OneDrive\Documentos\GitHub\XboxOneMusicPlayer\XboxOneMusicPlayer\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\lidia\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-05-20T20:51:12.760</Modified>
+      <Modified>2019-05-20T21:20:31.853</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lidia\OneDrive\Documentos\GitHub\XboxOneMusicPlayer\XboxOneMusicPlayer\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\lidia\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-05-20T20:51:12.763</Modified>
+      <Modified>2019-05-20T21:20:31.853</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lidia\OneDrive\Documentos\GitHub\XboxOneMusicPlayer\XboxOneMusicPlayer\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\lidia\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-05-20T20:51:12.765</Modified>
+      <Modified>2019-05-20T21:20:31.853</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lidia\OneDrive\Documentos\GitHub\XboxOneMusicPlayer\XboxOneMusicPlayer\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\lidia\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-05-20T20:51:14.141</Modified>
+      <Modified>2019-05-20T21:20:32.543</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lidia\OneDrive\Documentos\GitHub\XboxOneMusicPlayer\XboxOneMusicPlayer\bin\x64\Debug\XboxOneMusicPlayer.xr.xml">
+    <AppxPackagedFile Include="C:\Users\lidia\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\bin\x64\Debug\XboxOneMusicPlayer.xr.xml">
       <PackagePath>XboxOneMusicPlayer.xr.xml</PackagePath>
-      <Modified>2019-05-20T20:51:17.266</Modified>
+      <Modified>2019-05-20T21:20:34.809</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lidia\OneDrive\Documentos\GitHub\XboxOneMusicPlayer\XboxOneMusicPlayer\bin\x64\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\lidia\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\bin\x64\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2019-05-20T21:17:20.378</Modified>
+      <Modified>2019-05-20T22:59:14.841</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lidia\OneDrive\Documentos\GitHub\XboxOneMusicPlayer\XboxOneMusicPlayer\bin\x64\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\lidia\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\bin\x64\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2019-05-20T21:17:20.378</Modified>
+      <Modified>2019-05-20T22:59:14.842</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17763.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
       <Modified>2018-10-22T23:44:28.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lidia\OneDrive\Documentos\GitHub\XboxOneMusicPlayer\XboxOneMusicPlayer\bin\x64\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\lidia\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\bin\x64\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2019-05-20T21:17:23.002</Modified>
+      <Modified>2019-05-20T22:59:16.713</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lidia\OneDrive\Documentos\GitHub\XboxOneMusicPlayer\XboxOneMusicPlayer\bin\x64\Debug\Core\XboxOneMusicPlayer.exe">
+    <AppxPackagedFile Include="C:\Users\lidia\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\bin\x64\Debug\Core\XboxOneMusicPlayer.exe">
       <PackagePath>XboxOneMusicPlayer.exe</PackagePath>
-      <Modified>2019-05-20T21:17:25.763</Modified>
+      <Modified>2019-05-20T22:59:17.470</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

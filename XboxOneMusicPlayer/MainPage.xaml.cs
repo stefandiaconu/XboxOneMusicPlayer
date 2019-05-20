@@ -20,18 +20,21 @@ namespace XboxOneMusicPlayer
     {
         MediaPlayer player;
         bool playing;
+        static Button play;
         public MainPage()
         {
             this.InitializeComponent();
             player = new MediaPlayer();
             playing = false;
+            play = new Button();
             init();
+            
+            //play.Click += PlayButton_Click;
         }
 
         private void init()
         {
             ConnectClient();
-
         }
 
         static MqttFactory factory = new MqttFactory();
@@ -56,7 +59,7 @@ namespace XboxOneMusicPlayer
             }
 
             var message = new MqttApplicationMessageBuilder()
-            .WithTopic("testtopic/milan")
+            .WithTopic("/milanfdl1899@gmail.com/milan")
             .WithPayload("Ok")
             .WithExactlyOnceQoS()
             .WithRetainFlag()
@@ -69,7 +72,7 @@ namespace XboxOneMusicPlayer
             Debug.WriteLine("");
         }
 
-        public static string subscribe()
+        public string subscribe()
         {
 
             string mes = "";
@@ -78,18 +81,34 @@ namespace XboxOneMusicPlayer
                 Debug.WriteLine("### CONNECTED WITH SERVER ###");
 
                 // Subscribe to a topic
-                await mqttClient.SubscribeAsync(new TopicFilterBuilder().WithTopic("testtopic/milan").Build());
-                await mqttClient.SubscribeAsync(new TopicFilterBuilder().WithTopic("testtopic/test").Build());
+                await mqttClient.SubscribeAsync(new TopicFilterBuilder().WithTopic("/milanfdl1899@gmail.com/milan").Build());
+                await mqttClient.SubscribeAsync(new TopicFilterBuilder().WithTopic("/milanfdl1899@gmail.com/test").Build());
 
 
-                mqttClient.ApplicationMessageReceived += (s1, e1) =>
+                mqttClient.ApplicationMessageReceived += async (s1, e1) =>
                 {
-                    if (e1.ApplicationMessage.Topic.Equals("testtopic/milan"))
+                    if (e1.ApplicationMessage.Topic.Equals("/milanfdl1899@gmail.com/milan"))
                     {
                         mes = Encoding.UTF8.GetString(e1.ApplicationMessage.Payload);
-                        if (mes.Equals("Ok"))
+                        if (mes.Equals("OK"))
                         {
                             displayMessageAsync("Title", "Content", "Dialog");
+                            Windows.Storage.StorageFolder folder = await Windows.ApplicationModel.Package.Current.InstalledLocation.GetFolderAsync(@"Assets");
+                            Windows.Storage.StorageFile file = await folder.GetFileAsync("Subcarpati\\12 - Subcarpati - La cutari (cu Mara).mp3");
+
+                            player.AutoPlay = false;
+                            player.Source = MediaSource.CreateFromStorageFile(file);
+                            if (playing)
+                            {
+                                player.Source = null;
+                                playing = false;
+                            }
+                            else
+                            {
+                                player.Play();
+                                playing = true;
+                            }
+                            Debug.WriteLine("Playing!!!");
                         }
 
                     }
@@ -113,14 +132,16 @@ namespace XboxOneMusicPlayer
             return mes;
         }
 
-        public static async void ConnectClient()
+        public async void ConnectClient()
         {
             mqttClient = factory.CreateMqttClient();
 
             subscribe();
 
             var options = new MqttClientOptionsBuilder()
-                .WithTcpServer("broker.hivemq.com", 1883) // Port is optional
+                //.WithTcpServer("broker.hivemq.com", 1883) // Port is optional
+                .WithTcpServer("mqtt.dioty.co", 1883) // Port is optional
+                .WithCredentials("milanfdl1899@gmail.com", "f8e50cb7")
                 .Build();
             await mqttClient.ConnectAsync(options);
 
