@@ -28105,11 +28105,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lidia\\OneDrive\\Documentos\\GitHub\\XboxOneMusicPlayer\\XboxOneMusicPlayer\\XboxOneMusicPlayer.csproj",
+      "projectUniqueName": "C:\\Users\\lidia\\Downloads\\XboxOneMusicPlayer\\XboxOneMusicPlayer\\XboxOneMusicPlayer.csproj",
       "projectName": "XboxOneMusicPlayer",
-      "projectPath": "C:\\Users\\lidia\\OneDrive\\Documentos\\GitHub\\XboxOneMusicPlayer\\XboxOneMusicPlayer\\XboxOneMusicPlayer.csproj",
+      "projectPath": "C:\\Users\\lidia\\Downloads\\XboxOneMusicPlayer\\XboxOneMusicPlayer\\XboxOneMusicPlayer.csproj",
       "packagesPath": "C:\\Users\\lidia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lidia\\OneDrive\\Documentos\\GitHub\\XboxOneMusicPlayer\\XboxOneMusicPlayer\\obj\\",
+      "outputPath": "C:\\Users\\lidia\\Downloads\\XboxOneMusicPlayer\\XboxOneMusicPlayer\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [

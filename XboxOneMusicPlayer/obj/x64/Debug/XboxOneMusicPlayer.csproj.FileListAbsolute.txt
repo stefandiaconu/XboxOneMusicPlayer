@@ -663,3 +663,15 @@ C:\Users\lidia\OneDrive\Documentos\GitHub\XboxOneMusicPlayer\XboxOneMusicPlayer\
 C:\Users\lidia\OneDrive\Documentos\GitHub\XboxOneMusicPlayer\XboxOneMusicPlayer\obj\x64\Debug\MQTTnet.pri.xml
 C:\Users\lidia\OneDrive\Documentos\GitHub\XboxOneMusicPlayer\XboxOneMusicPlayer\obj\x64\Debug\ProjectArchitectures.txt
 C:\Users\lidia\OneDrive\Documentos\GitHub\XboxOneMusicPlayer\XboxOneMusicPlayer\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636758516200000000.json
+C:\Users\lidia\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\obj\x64\Debug\XboxOneMusicPlayer.csprojAssemblyReference.cache
+C:\Users\lidia\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\obj\x64\Debug\App.g.i.cs
+C:\Users\lidia\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\obj\x64\Debug\App.g.cs
+C:\Users\lidia\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\obj\x64\Debug\MainPage.g.i.cs
+C:\Users\lidia\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\obj\x64\Debug\MainPage.g.cs
+C:\Users\lidia\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\obj\x64\Debug\App.xaml
+C:\Users\lidia\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\obj\x64\Debug\MainPage.xaml
+C:\Users\lidia\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\obj\x64\Debug\App.xbf
+C:\Users\lidia\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\obj\x64\Debug\MainPage.xbf
+C:\Users\lidia\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\lidia\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\obj\x64\Debug\XboxOneMusicPlayer.exe
+C:\Users\lidia\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\obj\x64\Debug\XboxOneMusicPlayer.pdb
