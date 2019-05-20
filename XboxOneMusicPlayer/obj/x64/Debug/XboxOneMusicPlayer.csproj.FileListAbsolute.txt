@@ -567,7 +567,6 @@ C:\Users\stefa\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\bin\x64\Debug\Sys
 C:\Users\stefa\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\bin\x64\Debug\System.Xml.XmlDocument.dll
 C:\Users\stefa\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\bin\x64\Debug\System.Xml.XmlSerializer.dll
 C:\Users\stefa\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
-C:\Users\stefa\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\obj\x64\Debug\XboxOneMusicPlayer.csprojAssemblyReference.cache
 C:\Users\stefa\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\obj\x64\Debug\App.g.i.cs
 C:\Users\stefa\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\obj\x64\Debug\App.g.cs
 C:\Users\stefa\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\obj\x64\Debug\MainPage.g.i.cs
@@ -663,3 +662,4 @@ C:\Users\stefa\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\obj\x64\Debug\Mul
 C:\Users\stefa\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\obj\x64\Debug\MQTTnet.pri.xml
 C:\Users\stefa\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\obj\x64\Debug\ProjectArchitectures.txt
 C:\Users\stefa\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636758516200000000.json
+C:\Users\stefa\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\obj\x64\Debug\XboxOneMusicPlayer.csprojAssemblyReference.cache

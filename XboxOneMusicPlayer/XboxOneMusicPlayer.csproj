@@ -131,6 +131,23 @@
     <None Include="XboxOneMusicPlayer_TemporaryKey.pfx" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Assets\Subcarpati\01 - Subcarpati - Transhumanta-Zarile.mp3" />
+    <Content Include="Assets\Subcarpati\02 - Subcarpati - Lautar de Bucuresti.mp3" />
+    <Content Include="Assets\Subcarpati\03 - Subcarpati - Pai nu-i Doamne vina mea.mp3" />
+    <Content Include="Assets\Subcarpati\04 - Subcarpati - Am crescut pe la Romana.mp3" />
+    <Content Include="Assets\Subcarpati\05 - Subcarpati - Aveti nevoie de un ceteras.mp3" />
+    <Content Include="Assets\Subcarpati\06 - Subcarpati - Salvez lumea.mp3" />
+    <Content Include="Assets\Subcarpati\07 - Subcarpati - Original sampla`.mp3" />
+    <Content Include="Assets\Subcarpati\08 - Subcarpati - Doina spiritului.mp3" />
+    <Content Include="Assets\Subcarpati\09 - Subcarpati - Cand a fost la `89.mp3" />
+    <Content Include="Assets\Subcarpati\10 - Subcarpati - Visul lui %28cu Brio%29.mp3" />
+    <Content Include="Assets\Subcarpati\11 - Subcarpati - Hora fericirii.mp3" />
+    <Content Include="Assets\Subcarpati\12 - Subcarpati - La cutari %28cu Mara%29.mp3" />
+    <Content Include="Assets\Subcarpati\13 - Subcarpati - Viitorul %28cu Gnom%29.mp3" />
+    <Content Include="Assets\Subcarpati\14 - Subcarpati - Atat de personal.mp3" />
+    <Content Include="Assets\Subcarpati\15 - Subcarpati - Avion cu motor.mp3" />
+    <Content Include="Assets\Subcarpati\cover-05.jpg" />
+    <Content Include="Assets\Subcarpati\Subcarpati playlist.m3u" />
     <Content Include="Properties\Default.rd.xml" />
     <Content Include="Assets\LockScreenLogo.scale-200.png" />
     <Content Include="Assets\SplashScreen.scale-200.png" />

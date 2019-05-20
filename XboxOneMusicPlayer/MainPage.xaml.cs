@@ -1,18 +1,9 @@
 ﻿using System;
 using System.Diagnostics;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-using System.Runtime.InteropServices.WindowsRuntime;
-using Windows.Foundation;
-using Windows.Foundation.Collections;
 using Windows.UI.Xaml;
 using Windows.UI.Xaml.Controls;
-using Windows.UI.Xaml.Controls.Primitives;
-using Windows.UI.Xaml.Data;
-using Windows.UI.Xaml.Input;
-using Windows.UI.Xaml.Media;
-using Windows.UI.Xaml.Navigation;
+using Windows.Media.Playback;
+using Windows.Media.Core;
 
 using MQTTnet;
 using MQTTnet.Client;
@@ -27,10 +18,13 @@ namespace XboxOneMusicPlayer
     /// </summary>
     public sealed partial class MainPage : Page
     {
+        MediaPlayer player;
+        bool playing;
         public MainPage()
         {
             this.InitializeComponent();
-
+            player = new MediaPlayer();
+            playing = false;
             init();
         }
 
@@ -45,6 +39,22 @@ namespace XboxOneMusicPlayer
 
         private async void PlayButton_Click(object sender, RoutedEventArgs e)
         {
+            Windows.Storage.StorageFolder folder = await Windows.ApplicationModel.Package.Current.InstalledLocation.GetFolderAsync(@"Assets");
+            Windows.Storage.StorageFile file = await folder.GetFileAsync("Subcarpati\\12 - Subcarpati - La cutari (cu Mara).mp3");
+
+            player.AutoPlay = false;
+            player.Source = MediaSource.CreateFromStorageFile(file);
+            if (playing)
+            {
+                player.Source = null;
+                playing = false;
+            }
+            else
+            {
+                player.Play();
+                playing = true;
+            }
+
             var message = new MqttApplicationMessageBuilder()
             .WithTopic("testtopic/milan")
             .WithPayload("Ok")

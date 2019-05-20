@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\stefa\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\bin\x64\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-05-20T01:10:11.344</Modified>
+      <Modified>2019-05-20T18:43:19.817</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\stefa\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\bin\x64\Debug\XboxOneMusicPlayer.exe">
       <PackagePath>entrypoint\XboxOneMusicPlayer.exe</PackagePath>
-      <Modified>2019-05-20T01:10:08.929</Modified>
+      <Modified>2019-05-20T18:43:19.412</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.csharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -502,6 +502,78 @@
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
       <Modified>2018-10-23T00:33:40.000</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stefa\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\Assets\12 - Subcarpati - La cutari %28cu Mara%29.mp3">
+      <PackagePath>Assets\12 - Subcarpati - La cutari %28cu Mara%29.mp3</PackagePath>
+      <Modified>2019-05-20T18:26:20.378</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stefa\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\Assets\Subcarpati\01 - Subcarpati - Transhumanta-Zarile.mp3">
+      <PackagePath>Assets\Subcarpati\01 - Subcarpati - Transhumanta-Zarile.mp3</PackagePath>
+      <Modified>2019-05-20T17:57:16.301</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stefa\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\Assets\Subcarpati\02 - Subcarpati - Lautar de Bucuresti.mp3">
+      <PackagePath>Assets\Subcarpati\02 - Subcarpati - Lautar de Bucuresti.mp3</PackagePath>
+      <Modified>2019-05-20T17:57:16.310</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stefa\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\Assets\Subcarpati\03 - Subcarpati - Pai nu-i Doamne vina mea.mp3">
+      <PackagePath>Assets\Subcarpati\03 - Subcarpati - Pai nu-i Doamne vina mea.mp3</PackagePath>
+      <Modified>2019-05-20T17:57:16.315</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stefa\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\Assets\Subcarpati\04 - Subcarpati - Am crescut pe la Romana.mp3">
+      <PackagePath>Assets\Subcarpati\04 - Subcarpati - Am crescut pe la Romana.mp3</PackagePath>
+      <Modified>2019-05-20T17:57:16.319</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stefa\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\Assets\Subcarpati\05 - Subcarpati - Aveti nevoie de un ceteras.mp3">
+      <PackagePath>Assets\Subcarpati\05 - Subcarpati - Aveti nevoie de un ceteras.mp3</PackagePath>
+      <Modified>2019-05-20T17:57:16.323</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stefa\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\Assets\Subcarpati\06 - Subcarpati - Salvez lumea.mp3">
+      <PackagePath>Assets\Subcarpati\06 - Subcarpati - Salvez lumea.mp3</PackagePath>
+      <Modified>2019-05-20T17:57:16.327</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stefa\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\Assets\Subcarpati\07 - Subcarpati - Original sampla`.mp3">
+      <PackagePath>Assets\Subcarpati\07 - Subcarpati - Original sampla`.mp3</PackagePath>
+      <Modified>2019-05-20T17:57:16.330</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stefa\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\Assets\Subcarpati\08 - Subcarpati - Doina spiritului.mp3">
+      <PackagePath>Assets\Subcarpati\08 - Subcarpati - Doina spiritului.mp3</PackagePath>
+      <Modified>2019-05-20T17:57:16.333</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stefa\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\Assets\Subcarpati\09 - Subcarpati - Cand a fost la `89.mp3">
+      <PackagePath>Assets\Subcarpati\09 - Subcarpati - Cand a fost la `89.mp3</PackagePath>
+      <Modified>2019-05-20T17:57:16.336</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stefa\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\Assets\Subcarpati\10 - Subcarpati - Visul lui %28cu Brio%29.mp3">
+      <PackagePath>Assets\Subcarpati\10 - Subcarpati - Visul lui %28cu Brio%29.mp3</PackagePath>
+      <Modified>2019-05-20T17:57:16.339</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stefa\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\Assets\Subcarpati\11 - Subcarpati - Hora fericirii.mp3">
+      <PackagePath>Assets\Subcarpati\11 - Subcarpati - Hora fericirii.mp3</PackagePath>
+      <Modified>2019-05-20T17:57:16.343</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stefa\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\Assets\Subcarpati\12 - Subcarpati - La cutari %28cu Mara%29.mp3">
+      <PackagePath>Assets\Subcarpati\12 - Subcarpati - La cutari %28cu Mara%29.mp3</PackagePath>
+      <Modified>2019-05-20T17:57:16.346</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stefa\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\Assets\Subcarpati\13 - Subcarpati - Viitorul %28cu Gnom%29.mp3">
+      <PackagePath>Assets\Subcarpati\13 - Subcarpati - Viitorul %28cu Gnom%29.mp3</PackagePath>
+      <Modified>2019-05-20T17:57:16.351</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stefa\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\Assets\Subcarpati\14 - Subcarpati - Atat de personal.mp3">
+      <PackagePath>Assets\Subcarpati\14 - Subcarpati - Atat de personal.mp3</PackagePath>
+      <Modified>2019-05-20T17:57:16.355</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stefa\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\Assets\Subcarpati\15 - Subcarpati - Avion cu motor.mp3">
+      <PackagePath>Assets\Subcarpati\15 - Subcarpati - Avion cu motor.mp3</PackagePath>
+      <Modified>2019-05-20T17:57:16.358</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stefa\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\Assets\Subcarpati\cover-05.jpg">
+      <PackagePath>Assets\Subcarpati\cover-05.jpg</PackagePath>
+      <Modified>2019-05-20T17:57:16.359</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stefa\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\Assets\Subcarpati\Subcarpati playlist.m3u">
+      <PackagePath>Assets\Subcarpati\Subcarpati playlist.m3u</PackagePath>
+      <Modified>2019-05-20T17:57:16.361</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\stefa\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
       <Modified>2019-05-20T01:08:07.481</Modified>
@@ -546,11 +618,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\stefa\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\bin\x64\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2019-05-20T01:10:08.617</Modified>
+      <Modified>2019-05-20T18:43:19.276</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\stefa\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\bin\x64\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2019-05-20T01:10:08.617</Modified>
+      <Modified>2019-05-20T18:43:19.276</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17763.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -558,11 +630,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\stefa\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\bin\x64\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2019-05-20T01:10:10.804</Modified>
+      <Modified>2019-05-20T18:27:26.455</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\stefa\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\bin\x64\Debug\Core\XboxOneMusicPlayer.exe">
       <PackagePath>XboxOneMusicPlayer.exe</PackagePath>
-      <Modified>2019-05-20T01:10:11.328</Modified>
+      <Modified>2019-05-20T18:43:19.800</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
