@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Machine>DESKTOP-D811IMS</Machine>
-    <WindowsUser>lidia</WindowsUser>
+    <Machine>DESKTOP-2BNEN64</Machine>
+    <WindowsUser>stefa</WindowsUser>
     <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
     <TargetOsVersion>10.0</TargetOsVersion>
     <TargetOsDescription>Windows 10.0</TargetOsDescription>
@@ -10,7 +10,7 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>2caedd6b-0ff8-4eec-a6ba-128d62bffe89</PackageIdentityName>
     <PackageIdentityPublisher>CN=stefa</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\lidia\OneDrive\Documentos\GitHub\XboxOneMusicPlayer\XboxOneMusicPlayer\obj\x64\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\stefa\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\obj\x64\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,7 +18,7 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\lidia\OneDrive\Documentos\GitHub\XboxOneMusicPlayer\XboxOneMusicPlayer\bin\x64\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\Users\stefa\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\bin\x64\Debug\AppX</LayoutDir>
     <RegisteredManifestChecksum>E42AD8E9618A3E7E65C7D907D4D295B433F3DBCD40DB0629F75157B5692E7CD0</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>2caedd6b-0ff8-4eec-a6ba-128d62bffe89_1.0.0.0_x64__dfg97hv9xt576</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>2caedd6b-0ff8-4eec-a6ba-128d62bffe89_dfg97hv9xt576!App</RegisteredUserModeAppID>
@@ -27,16 +27,16 @@
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\lidia\OneDrive\Documentos\GitHub\XboxOneMusicPlayer\XboxOneMusicPlayer\bin\x64\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\stefa\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\bin\x64\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-04-08T19:09:42.307</Modified>
+      <Modified>2019-05-20T01:10:11.344</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\lidia\OneDrive\Documentos\GitHub\XboxOneMusicPlayer\XboxOneMusicPlayer\bin\x64\Debug\XboxOneMusicPlayer.exe">
+    <AppxPackagedFile Include="C:\Users\stefa\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\bin\x64\Debug\XboxOneMusicPlayer.exe">
       <PackagePath>entrypoint\XboxOneMusicPlayer.exe</PackagePath>
-      <Modified>2019-04-08T19:09:41.213</Modified>
+      <Modified>2019-05-20T01:10:08.929</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.csharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -94,7 +94,7 @@
       <PackagePath>Microsoft.VisualBasic.dll</PackagePath>
       <Modified>2016-06-11T22:13:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lidia\.nuget\packages\mqttnet\2.8.5\lib\uap10.0\MQTTnet.dll">
+    <AppxPackagedFile Include="C:\Users\stefa\.nuget\packages\mqttnet\2.8.5\lib\uap10.0\MQTTnet.dll">
       <PackagePath>MQTTnet.dll</PackagePath>
       <Modified>2018-12-09T18:47:56.000</Modified>
     </AppxPackagedFile>
@@ -502,67 +502,67 @@
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
       <Modified>2018-10-23T00:33:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lidia\OneDrive\Documentos\GitHub\XboxOneMusicPlayer\XboxOneMusicPlayer\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\stefa\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
-      <Modified>2019-04-08T16:57:06.040</Modified>
+      <Modified>2019-05-20T01:08:07.481</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lidia\OneDrive\Documentos\GitHub\XboxOneMusicPlayer\XboxOneMusicPlayer\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\stefa\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
-      <Modified>2019-04-08T16:57:06.014</Modified>
+      <Modified>2019-05-20T01:08:07.460</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lidia\OneDrive\Documentos\GitHub\XboxOneMusicPlayer\XboxOneMusicPlayer\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\stefa\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-04-08T16:57:06.017</Modified>
+      <Modified>2019-05-20T01:08:07.462</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lidia\OneDrive\Documentos\GitHub\XboxOneMusicPlayer\XboxOneMusicPlayer\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\stefa\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-04-08T16:57:06.019</Modified>
+      <Modified>2019-05-20T01:08:07.463</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lidia\OneDrive\Documentos\GitHub\XboxOneMusicPlayer\XboxOneMusicPlayer\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\stefa\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-04-08T16:57:06.021</Modified>
+      <Modified>2019-05-20T01:08:07.465</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lidia\OneDrive\Documentos\GitHub\XboxOneMusicPlayer\XboxOneMusicPlayer\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\stefa\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-04-08T16:57:06.025</Modified>
+      <Modified>2019-05-20T01:08:07.467</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lidia\OneDrive\Documentos\GitHub\XboxOneMusicPlayer\XboxOneMusicPlayer\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\stefa\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-04-08T16:57:06.027</Modified>
+      <Modified>2019-05-20T01:08:07.469</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lidia\OneDrive\Documentos\GitHub\XboxOneMusicPlayer\XboxOneMusicPlayer\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\stefa\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-04-08T16:57:06.029</Modified>
+      <Modified>2019-05-20T01:08:07.471</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lidia\OneDrive\Documentos\GitHub\XboxOneMusicPlayer\XboxOneMusicPlayer\bin\x64\Debug\XboxOneMusicPlayer.xr.xml">
+    <AppxPackagedFile Include="C:\Users\stefa\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\bin\x64\Debug\XboxOneMusicPlayer.xr.xml">
       <PackagePath>XboxOneMusicPlayer.xr.xml</PackagePath>
-      <Modified>2019-04-08T16:57:06.992</Modified>
+      <Modified>2019-05-20T01:08:08.364</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lidia\OneDrive\Documentos\GitHub\XboxOneMusicPlayer\XboxOneMusicPlayer\bin\x64\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\stefa\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\bin\x64\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2019-04-08T19:09:41.004</Modified>
+      <Modified>2019-05-20T01:10:08.617</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lidia\OneDrive\Documentos\GitHub\XboxOneMusicPlayer\XboxOneMusicPlayer\bin\x64\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\stefa\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\bin\x64\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2019-04-08T19:09:41.005</Modified>
+      <Modified>2019-05-20T01:10:08.617</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17763.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
       <Modified>2018-10-22T23:44:28.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lidia\OneDrive\Documentos\GitHub\XboxOneMusicPlayer\XboxOneMusicPlayer\bin\x64\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\stefa\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\bin\x64\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2019-04-08T19:09:41.879</Modified>
+      <Modified>2019-05-20T01:10:10.804</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lidia\OneDrive\Documentos\GitHub\XboxOneMusicPlayer\XboxOneMusicPlayer\bin\x64\Debug\Core\XboxOneMusicPlayer.exe">
+    <AppxPackagedFile Include="C:\Users\stefa\Downloads\XboxOneMusicPlayer\XboxOneMusicPlayer\bin\x64\Debug\Core\XboxOneMusicPlayer.exe">
       <PackagePath>XboxOneMusicPlayer.exe</PackagePath>
-      <Modified>2019-04-08T19:09:42.294</Modified>
+      <Modified>2019-05-20T01:10:11.328</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
